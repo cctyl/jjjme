@@ -4,3 +4,4 @@ j2me-project/build/
 j2me-project/app.jar
 j2me-project/app.jad
 *.class
+node_modules
